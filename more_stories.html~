@@ -20,7 +20,7 @@
  <body>
     
 	<div id="head">
-		<a href="index.php"><img src="cfe_logo.png" id="logo" ></a>
+		<a href="index.html"><img src="cfe_logo.png" id="logo" ></a>
 		<div id="menu">
 			
 			
