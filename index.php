@@ -187,7 +187,7 @@
 		<div id="menu">
 				<span id="b"><a href="#initiative" id="m1" onclick="change(4);">ENGAGEMENTS</a></span> 
 				<span id="e"><a href="#team" id="m1" onclick="change(3);">TEAM</a></span> &nbsp;&nbsp;&nbsp;
-				<span id="d">GALLERY</span> &nbsp;&nbsp;&nbsp;
+				<span id="d"><a href="" id="m1">GALLERY</a></span> &nbsp;&nbsp;&nbsp;
 				<span id="c"><a href="#mentors" id="m1" onclick="change(2);">MENTORS</a></span> &nbsp;&nbsp;&nbsp;
 				<span id="a"><a href="#About_us" id="m1" onclick="change(1);">ABOUT US</a></span> &nbsp;&nbsp;&nbsp;
 				<span id="f" style="display:none;"><a href="#About_us" id="m1" onclick="change(5);">ABOUT US</a></span> &nbsp;&nbsp;&nbsp;
@@ -327,13 +327,13 @@
 	 <br><br>
 	 <span id="heading" style="font-size:1.4em;border-left:4px solid rgba(167,14,19,1);padding:1%;">Ashoka University</span><br><br>
 	 <p>
-	 Ashoka University is an institution being set up with a vision to create India’s first university in the class of the celebrated and top ranked international universities. It offers world-class liberal education through a three- year undergraduate program with an option to do an extra post-graduate year in Ashoka Scholars Program.
+	 Ashoka University is an institution being set up with a vision to create India&#39s first university in the class of the celebrated and top ranked international universities. It offers world-class liberal education through a three- year undergraduate program with an option to do an extra post-graduate year in Ashoka Scholars Program.
 	 </p>
 	 <p>
-	 Ashoka University is run in collaboration with such institutions of global repute as University of Pennsylvania (Penn), Carleton College and University of Michigan, two of the finest liberal arts colleges in the US, Sciences Po or Institut d’Etudes Politiques de Paris, the top University in Europe in the field of social sciences and King’s College London.
+	 Ashoka University is run in collaboration with such institutions of global repute as University of Pennsylvania (Penn), Carleton College and University of Michigan, two of the finest liberal arts colleges in the US, Sciences Po or Institut d&#39Etudes Politiques de Paris, the top University in Europe in the field of social sciences and King&#39s College London.
 	 </p>
 	 <p>
-	 The Young India Fellowship is its flagship post-graduate diploma program in liberal studies and leadership with an option to continue into the second year for a Master’s degree.
+	 The Young India Fellowship is its flagship post-graduate diploma program in liberal studies and leadership with an option to continue into the second year for a Master&#39s degree.
 	 </p>
 	 <p>
 	 The University campus is 50 kilometers away from New Delhi at Rajiv Gandhi Education City in Kundli, Sonepat, and welcomed its first batch of students this year.
@@ -355,72 +355,73 @@
 		
 		<div id="m_holder">
 		<br><br>
-		    <a href="http://entrepreneurship.ashoka.edu.in/mentors/ashish-dhawan/">
+
+		    <!--<a href="http://entrepreneurship.ashoka.edu.in/mentors/ashish-dhawan/">-->
 		    <div id="m_bg">
 				<img src="./mentors/a.jpg" height="80%" width="90%">
 				<span id="name">
 				Ashish Dhawan
 				</span>
 			</div>
-			</a>
+			<!--</a>-->
 			
-			<a href="http://entrepreneurship.ashoka.edu.in/mentors/ashish-gupta/">
+			<!--<a href="http://entrepreneurship.ashoka.edu.in/mentors/ashish-gupta/">-->
 		    <div id="mt_bg">
 				<img src="./mentors/ag.jpg" height="80%" width="90%">
 				<span id="name">
 				Ashish Gupta
 				</span>
 			</div>
-			</a>
+			<!--</a>-->
 			
 			
-			<a href="http://entrepreneurship.ashoka.edu.in/mentors/deep-kalra/">
+			<!--<a href="http://entrepreneurship.ashoka.edu.in/mentors/deep-kalra/">-->
 		    <div id="mt_bg">
 				<img src="./mentors/dk.jpg" height="80%" width="90%">
 				<span id="name">
 				Deep Kalra
 				</span>
 			</div>
-			</a>
+			<!--</a>-->
 			
 			
-			<a href="http://entrepreneurship.ashoka.edu.in/mentors/pramath-sinha/">
+			<!--<a href="http://entrepreneurship.ashoka.edu.in/mentors/pramath-sinha/">-->
 		    <div id="mt_bg">
 				<img src="./mentors/ps.jpg" height="80%" width="90%">
 				<span id="name">
 				Pramath Sinha
 				</span>
 			</div>
-			</a>
+			<!--</a>-->
 			
 			
-			<a href="http://entrepreneurship.ashoka.edu.in/mentors/puneet-dalmia/">
+			<!--<a href="http://entrepreneurship.ashoka.edu.in/mentors/puneet-dalmia/">-->
 		    <div id="mt_bg">
 				<img src="./mentors/pd.jpg" height="80%" width="90%">
 				<span id="name">
 				Puneet Dalmia
 				</span>
 			</div>
-			</a>
+			<!--</a>-->
 			
 			
-			<a href="http://entrepreneurship.ashoka.edu.in/mentors/sanjeev-bikhchandani/">
+			<!--<a href="http://entrepreneurship.ashoka.edu.in/mentors/sanjeev-bikhchandani/">-->
 		    <div id="mt_bg" style="margin-top:5%;">
 				<img src="./mentors/sb.jpg" height="80%" width="90%">
 				<span id="name" style="font-size:0.9em;">
 				Sanjeev Bikhchandani
 				</span>
 			</div>
-			</a>
+			<!--</a>-->
 			<br>
-			<a href="http://entrepreneurship.ashoka.edu.in/mentors/vineet-gupta/">
+			<!--<a href="http://entrepreneurship.ashoka.edu.in/mentors/vineet-gupta/">-->
 		    <div id="m_bg" style="margin-top:5%;">
 				<img src="./mentors/vg.jpg" height="80%" width="90%">
 				<span id="name">
 				Vineet Gupta
 				</span>
 			</div>
-			</a>
+			<!--</a>-->
 		</div>	
 	</div>
    
@@ -437,24 +438,24 @@
 			<!--remove before hosting:::::-->
 			
 			
-			<a href="http://entrepreneurship.ashoka.edu.in/team/priyank-narayan/">
+			<!--<a href="http://entrepreneurship.ashoka.edu.in/team/priyank-narayan/">-->
 		    <div id="mt_bg">
 				<img src="./Team/pn.jpg" height="80%" width="100%">
 				<span id="name">
 				Priyank Narayan
 				</span>
 			</div>
-			</a>
+			<!--</a>-->
 			
 			
-			<a href="http://entrepreneurship.ashoka.edu.in/team/arihant-jain/">
+			<!--<a href="http://entrepreneurship.ashoka.edu.in/team/arihant-jain/">-->
 		    <div id="m_bg">
 				<img src="./Team/aj.jpg" height="80%" width="100%">
 				<span id="name">
 				Arihant Jain
 				</span>
 			</div>
-			</a>
+			<!--</a>-->
 		</div>	
 			
 		<!--E club-->
@@ -468,14 +469,14 @@
 			
 				
 
-		    <a href="http://entrepreneurship.ashoka.edu.in/team/arihant-jain/">
+		    <!--<a href="http://entrepreneurship.ashoka.edu.in/team/arihant-jain/">-->
 		    <div id="m_bg">
 				<img src="./Team/aj.jpg" height="80%" width="100%">
 				<span id="name">
 				Arihant Jain
 				</span>
 			</div>
-			</a>
+			<!--</a>-->
 		
 			
 			
@@ -500,7 +501,7 @@
 			<span id="short_h" style="color:rgba(255,51,51,1);">My Story 1- Sept 2015- Vineet Gupta</span>
 			<br>
 			<p style="font-size:1em;">
-			This was the inaugural talk of the "My Story" series lecture. Vineet Gupta is one amongst the original group of Ashoka University's founders, and thus it made all the more sense in having him as the inaugural speaker...
+			This was the inaugural talk of the <q>My Story</q> series lecture. Vineet Gupta is one amongst the original group of Ashoka University&#39s founders, and thus it made all the more sense in having him as the inaugural speaker...
 			</p>
 			
 		</a>	
@@ -528,7 +529,7 @@
 			<span id="short_h" style="color:rgba(255,51,51,1);">My Story 3- Sept 2015- Megha Sharma Bhagat</span>
 			<br>
 			<p style="font-size:1em;">
-			CFE hosted the third "My Story" Series event on 15th September  2015 with Megha Sharma Bhagat as the speaker. Megha Bhagat is a strategy and operations consultant in the CSR, gender inclusion, education and impact...
+			CFE hosted the third <q>My Story</q> Series event on 15th September  2015 with Megha Sharma Bhagat as the speaker. Megha Bhagat is a strategy and operations consultant in the CSR, gender inclusion, education and impact...
 			</p>
 			
 		</a>	
@@ -570,7 +571,7 @@
 			<span id="short_h" style="color:rgba(255,51,51,1);">Deep Impact through Policy Advocacy by Piyush Tewari</span>
 			<br>
 			<p style="font-size:1em;padding:1%;">
-			What is the purpose of social movements? Should NGOs last forever? Don't we have enough laws and policies already in place and it is the implementation that is the problem?...
+			What is the purpose of social movements? Should NGOs last forever? Don&#39t we have enough laws and policies already in place and it is the implementation that is the problem?...
 			</p>
 			
 			</a>
@@ -580,7 +581,7 @@
 		<!--row 4-->
 		<div id="i_content1" style="margin-top:15%;">
 			<a onclick="detail(7)" id="m1">
-			<img src="./events/dt.jpg" id="i2">
+			<img src="./events/dt.JPG" id="i2">
 			<br><span style="font-family:'Century Gothic', CenturyGothic, AppleGothic, sans-serif;color:rgba(0,174,239,1);">JANUARY 2015</span><br>
 			<span id="short_h" style="color:rgba(255,51,51,1);">Design Thinking by Tinkerlabs</span>
 			<br>
@@ -594,7 +595,7 @@
 		
 		<div id="i_content2" style="margin-top:15%;">
 			<a onclick="detail(8)" id="m1">
-			<img src="./events/sw.jpg" id="i2">
+			<img src="./events/sw.JPG" id="i2">
 			<br>
 			<span style="font-family:'Century Gothic', CenturyGothic, AppleGothic, sans-serif;color:rgba(0,174,239,1);">NOVEMBER 2014</span><br>
 			<span id="short_h" style="color:rgba(255,51,51,1);">Startup Weekend, Ashoka University</span>

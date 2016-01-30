@@ -20,7 +20,7 @@
  <body>
     
 	<div id="head">
-		<a href="index.html"><img src="cfe_logo.png" id="logo" ></a>
+		<a href="index.php"><img src="cfe_logo.png" id="logo" ></a>
 		<div id="menu">
 			
 			
@@ -146,7 +146,7 @@
 		<!--row 4-->
 		<div id="i_content1" style="margin-top:15%;">
 			<a id="m1" onclick="detail(7)">
-			<img src="./events/dt.jpg" id="i2">
+			<img src="./events/dt.JPG" id="i2">
 			<br><span style="font-family:'Century Gothic', CenturyGothic, AppleGothic, sans-serif;color:rgba(0,174,239,1);">JANUARY 2015</span><br>
 			<span id="short_h" style="color:rgba(255,51,51,1);">Design Thinking by Tinkerlabs</span>
 			<br>
@@ -160,7 +160,7 @@
 		
 		<div id="i_content2" style="margin-top:15%;">
 			<a id="m1" onclick="detail(8)">
-			<img src="./events/sw.jpg" id="i2">
+			<img src="./events/sw.JPG" id="i2">
 			<br>
 			<span style="font-family:'Century Gothic', CenturyGothic, AppleGothic, sans-serif;color:rgba(0,174,239,1);">NOVEMBER 2014</span><br>
 			<span id="short_h" style="color:rgba(255,51,51,1);">Startup Weekend, Ashoka University</span>
