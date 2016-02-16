@@ -25,6 +25,7 @@
       font: normal 15px/1.5 "Helvetica Neue", Helvetica, Arial, sans-serif;
       color: #232525;
       padding-top:70px;
+	  
     }
 
     #slides {
@@ -183,14 +184,17 @@
  <body>
     
 	<div id="head">
+		<!--border-bottom-left-radius:20%;
+	  border-bottom-right-radius:20%;
+	  -->
 		<a href="index.php"><img src="cfe_logo.png" id="logo" ></a>
 		<div id="menu">
 				<span id="b"><a href="#initiative" id="m1" onclick="change(4);">ENGAGEMENTS</a></span> 
 				<span id="e"><a href="#team" id="m1" onclick="change(3);">TEAM</a></span> &nbsp;&nbsp;&nbsp;
-				<span id="d"><a href="" id="m1">GALLERY</a></span> &nbsp;&nbsp;&nbsp;
+				<span id="d" ><a href="#reach" id="m1" onclick="change(5);">PROGRAMMES</a></span> &nbsp;&nbsp;&nbsp;
 				<span id="c"><a href="#mentors" id="m1" onclick="change(2);">MENTORS</a></span> &nbsp;&nbsp;&nbsp;
 				<span id="a"><a href="#About_us" id="m1" onclick="change(1);">ABOUT US</a></span> &nbsp;&nbsp;&nbsp;
-				<span id="f" style="display:none;"><a href="#About_us" id="m1" onclick="change(5);">ABOUT US</a></span> &nbsp;&nbsp;&nbsp;
+				<span id="f" style="display:none;"><a href="#reach" id="m1" onclick="change(5);">PROGRAMMES</a></span> &nbsp;&nbsp;&nbsp;
 		</div>
 	</div>
 	
@@ -198,9 +202,9 @@
   <!-- The container is used to define the width of the slideshow -->
   <div class="container">
     <div id="slides">
-      <img src="IMG_1669.JPG" >
-      <img src="11.jpg" >
-      <img src="22.jpg" >
+      <img src="s11.JPG" >
+      <img src="s22.jpg" >
+      <img src="s33.jpg" >
       <img src="33.jpg" >
     </div>
   </div>
@@ -356,47 +360,47 @@
 		<div id="m_holder">
 		<br><br>
 
-		    <!--<a href="http://entrepreneurship.ashoka.edu.in/mentors/ashish-dhawan/">-->
+		    <a href="https://in.linkedin.com/in/ashish-dhawan-241112" target="_blank">
 		    <div id="m_bg">
 				<img src="./mentors/a.jpg" height="80%" width="90%">
 				<span id="name">
 				Ashish Dhawan
 				</span>
 			</div>
-			<!--</a>-->
+			</a>
 			
-			<!--<a href="http://entrepreneurship.ashoka.edu.in/mentors/ashish-gupta/">-->
+			<a href="https://in.linkedin.com/in/ashish-gupta-125b0b5" target="_blank">
 		    <div id="mt_bg">
 				<img src="./mentors/ag.jpg" height="80%" width="90%">
 				<span id="name">
 				Ashish Gupta
 				</span>
 			</div>
-			<!--</a>-->
+			</a>
 			
 			
-			<!--<a href="http://entrepreneurship.ashoka.edu.in/mentors/deep-kalra/">-->
+			<a href="https://in.linkedin.com/in/deepkalra" target="_blank">
 		    <div id="mt_bg">
 				<img src="./mentors/dk.jpg" height="80%" width="90%">
 				<span id="name">
 				Deep Kalra
 				</span>
 			</div>
-			<!--</a>-->
+			</a>
 			
 			
-			<!--<a href="http://entrepreneurship.ashoka.edu.in/mentors/pramath-sinha/">-->
+			<a href="https://in.linkedin.com/in/pramathsinha" target="_blank">
 		    <div id="mt_bg">
 				<img src="./mentors/ps.jpg" height="80%" width="90%">
 				<span id="name">
 				Pramath Sinha
 				</span>
 			</div>
-			<!--</a>-->
+			</a>
+			<br>
 			
-			
-			<!--<a href="http://entrepreneurship.ashoka.edu.in/mentors/puneet-dalmia/">-->
-		    <div id="mt_bg">
+			<!--<a href="">-->
+		    <div id="mi_bg">
 				<img src="./mentors/pd.jpg" height="80%" width="90%">
 				<span id="name">
 				Puneet Dalmia
@@ -405,23 +409,23 @@
 			<!--</a>-->
 			
 			
-			<!--<a href="http://entrepreneurship.ashoka.edu.in/mentors/sanjeev-bikhchandani/">-->
+			<a href="https://in.linkedin.com/in/sanjeev-bikhchandani-501261" target="_blank">
 		    <div id="mt_bg" style="margin-top:5%;">
 				<img src="./mentors/sb.jpg" height="80%" width="90%">
 				<span id="name" style="font-size:0.9em;">
 				Sanjeev Bikhchandani
 				</span>
 			</div>
-			<!--</a>-->
-			<br>
-			<!--<a href="http://entrepreneurship.ashoka.edu.in/mentors/vineet-gupta/">-->
-		    <div id="m_bg" style="margin-top:5%;">
+			</a>
+			
+			<a href="https://in.linkedin.com/in/vineet-gupta-0b328b1" target="_blank">
+		    <div id="mt_bg" style="margin-top:5%;">
 				<img src="./mentors/vg.jpg" height="80%" width="90%">
 				<span id="name">
 				Vineet Gupta
 				</span>
 			</div>
-			<!--</a>-->
+			</a>
 		</div>	
 	</div>
    
@@ -438,27 +442,27 @@
 			<!--remove before hosting:::::-->
 			
 			
-			<!--<a href="http://entrepreneurship.ashoka.edu.in/team/priyank-narayan/">-->
+			<a href="https://in.linkedin.com/in/priyankn" target="_blank">
 		    <div id="mt_bg">
 				<img src="./Team/pn.jpg" height="80%" width="100%">
 				<span id="name">
 				Priyank Narayan
 				</span>
 			</div>
-			<!--</a>-->
+			</a>
 			
 			
-			<!--<a href="http://entrepreneurship.ashoka.edu.in/team/arihant-jain/">-->
-		    <div id="m_bg">
+			<a href="https://in.linkedin.com/in/arihant" target="_blank">
+		    <div id="mt_bg">
 				<img src="./Team/aj.jpg" height="80%" width="100%">
 				<span id="name">
 				Arihant Jain
 				</span>
 			</div>
-			<!--</a>-->
+			</a>
 		</div>	
 			
-		<!--E club-->
+		<!--E club
 		<hr id="hr_3" >
 				<span id="heading" style="color:rgba(167,14,19,1)">E CLUB</span>
 		<hr id="hr_4">
@@ -469,26 +473,26 @@
 			
 				
 
-		    <!--<a href="http://entrepreneurship.ashoka.edu.in/team/arihant-jain/">-->
+		    
 		    <div id="m_bg">
 				<img src="./Team/aj.jpg" height="80%" width="100%">
 				<span id="name">
 				Arihant Jain
 				</span>
 			</div>
-			<!--</a>-->
+			
 		
 			
 			
 			
-		</div>
+		</div>-->
 	</div>
    
   
   
    <!--Engagements-->
    <div id="initiative" style="padding-bottom:20%;margin-top:-14%;">
-   <br><br>	
+   <br><br><br>	
 		<hr id="hr_1">
 			<div id="i_img" style="height:14%;"></div>
 		<hr id="hr_2">
@@ -616,36 +620,42 @@
 	</div>	
    
    
-   
-   
-   
-   
-    <div id="reach">
-	<!----
-		<br><br>	
+    <div id="reach" style="margin-top:-14%;">
+	<br><br><br>	
+		
 		<hr id="hr_1">
-			<div id="c_img"></div>
+			<div id="i_img" style="height:14%;"></div>
 		<hr id="hr_2">
-		<br><br><br>
-		<img src="./icons/locate.png" style="display:inline-block;vertical-align:middle;margin-left:20%;">
-		<p style="display:inline-block;line-height:210%;"><strong>Address : </strong> Plot #2, Rajiv Gandhi Education City
-			Kundli Haryana - 131028 (India) <br>
-			<strong>Email : </strong><a href='mailto:entrepreneurship@ashoka.edu.in'>entrepreneurship@ashoka.edu.in</a>
+		<span id="heading" style="margin-left:43%;">PROGRAMMES</span><br><br><br>
+		
+		<div id="i_content1">
+		<a onclick="detail(9)" id="m1">
+			<img src="./events/dm.jpg" id="i2">
+			<br><span style="font-family:'Century Gothic', CenturyGothic, AppleGothic, sans-serif;color:rgba(0,174,239,1);"></span><br>
+			<span id="short_h" style="color:rgba(255,51,51,1);">Dalmia bharat AIM smart city Accelerator by Holostik India</span>
+			<br>
+			<p style="font-size:1em;">
+			India is looking for smart solutions for its urban chaos &#45; an infrastructure solution where street and home lighting is universal, costs less than it does now and uses less energy. With seven billion people on the planet, we&#39re running out of space and time for traditional solutions to work...
 			</p>
 			
+		</a>	
+		</div>
 		
 		
+		<div id="i_content2">
+			<a onclick="detail(10)" id="m1">
+			<img src="./events/di.jpg" id="i2">
+			<br><span style="font-family:'Century Gothic', CenturyGothic, AppleGothic, sans-serif;color:rgba(0,174,239,1);"></span><br>
+			<span id="short_h" style="color:rgba(255,51,51,1);">Entrepreneur in Residence</span>
+			<br>
+			<p style="font-size:1em;padding:1%;">
+				This is an exciting program that allows Fellows to stay back on Campus for a period of 6 months after graduation, to work on their entrepreneurial idea and take it to a fundable business plan stage..
+			</p>
+			
+			</a>
+		</div>
 		
-		<br><br><br><br>
-		<p style="display:inline-block;margin-left:30%;font-size:1.4em;">Follow us on : </p>
-		 <a href="https://www.facebook.com/CoeAshoka"><img style="display:inline-block;vertical-align:middle;" src="./icons/facebook.png" height="80"></a>
-		 <a href="https://twitter.com/CfeAshoka"><img style="display:inline-block;vertical-align:middle;" src="./icons/twitter.png" height="80"></a>
-		 <a href="https://in.linkedin.com/in/cfeashoka"><img style="display:inline-block;vertical-align:middle;" src="./icons/linked.png" height="80"></a>
-		 <a href="https://www.youtube.com/channel/UCD3O8AzEbu_ZKbiZ-2Bn5Jw"><img style="display:inline-block;vertical-align:middle;" src="./icons/youtube.png" height="80"></a>
-		<br><br><br><br><br>
-		<p style="padding-top:5%;padding-left:30%;">
-			Developed by: <b>Paras Bhattrai </b>(<span style="color:green;">email: paras.bhattrai@ashoka.edu.in)</span>
-		</p>-->
+	
 	</div>
 	
  </body>
@@ -682,7 +692,10 @@
 						break;		
 				
 				case 4: echo "change(4);scroll(0,600);";
-						break;				
+						break;
+
+				case 5: echo "change(5);scroll(0,700);";
+						break;		
 			}
 		}
 	?>
